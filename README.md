@@ -4,3 +4,6 @@
 
 #Protótipo
 ![alt tag](https://github.com/vitoralves/arduino/blob/master/prototipo.PNG)
+
+#Vídeo do protótipo
+https://youtu.be/cmOopk7gIiY
